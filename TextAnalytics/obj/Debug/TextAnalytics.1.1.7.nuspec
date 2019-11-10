@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TextAnalytics</id>
+    <version>1.1.7</version>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/Microsoft/Cognitive-TextAnalytics-DotNet/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/Microsoft/Cognitive-TextAnalytics-DotNet</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/Microsoft/Cognitive-TextAnalytics-DotNet/master/Docs/Images/TextAnalytics.png</iconUrl>
+    <description>Microsoft Cognitive Services Text Analytics API Client Library</description>
+    <releaseNotes>Added additional preview languages for key phrase extraction and sentiment analysis.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Microsoft Project Oxford Cognitive Services Text Language</tags>
+    <repository type="git" url="https://github.com/Microsoft/Cognitive-TextAnalytics-DotNet" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Newtonsoft.Json" version="10.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Net.Http" version="4.3.2" exclude="Build,Analyzers" />
+        <dependency id="System.Runtime.Serialization.Primitives" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\dmitr\OneDrive\Документы\Cognitive-TextAnalytics-DotNet\ClientLibrary\Microsoft.ProjectOxford.Text\bin\Debug\netstandard2.0\TextAnalytics.dll" target="lib\netstandard2.0\TextAnalytics.dll" />
+  </files>
+</package>

@@ -1,0 +1,18 @@
+C:\Users\dmitr\OneDrive\Документы\Cognitive-TextAnalytics-DotNet\ClientLibrary\Microsoft.ProjectOxford.Text\bin\Debug\netstandard2.0\TextAnalytics.deps.json
+C:\Users\dmitr\OneDrive\Документы\Cognitive-TextAnalytics-DotNet\ClientLibrary\Microsoft.ProjectOxford.Text\bin\Debug\netstandard2.0\TextAnalytics.dll
+C:\Users\dmitr\OneDrive\Документы\Cognitive-TextAnalytics-DotNet\ClientLibrary\Microsoft.ProjectOxford.Text\bin\Debug\netstandard2.0\TextAnalytics.pdb
+C:\Users\dmitr\OneDrive\Документы\Cognitive-TextAnalytics-DotNet\ClientLibrary\Microsoft.ProjectOxford.Text\obj\Debug\netstandard2.0\TextAnalytics.csprojResolveAssemblyReference.cache
+C:\Users\dmitr\OneDrive\Документы\Cognitive-TextAnalytics-DotNet\ClientLibrary\Microsoft.ProjectOxford.Text\obj\Debug\netstandard2.0\TextAnalytics.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Документы\Cognitive-TextAnalytics-DotNet\ClientLibrary\Microsoft.ProjectOxford.Text\obj\Debug\netstandard2.0\TextAnalytics.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Документы\Cognitive-TextAnalytics-DotNet\ClientLibrary\Microsoft.ProjectOxford.Text\obj\Debug\netstandard2.0\TextAnalytics.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Документы\Cognitive-TextAnalytics-DotNet\ClientLibrary\Microsoft.ProjectOxford.Text\obj\Debug\netstandard2.0\TextAnalytics.dll
+C:\Users\dmitr\OneDrive\Документы\Cognitive-TextAnalytics-DotNet\ClientLibrary\Microsoft.ProjectOxford.Text\obj\Debug\netstandard2.0\TextAnalytics.pdb
+C:\Users\dmitr\OneDrive\Документы\Для работы\Text Analytics\TextAnalytics\bin\Debug\netstandard2.0\TextAnalytics.deps.json
+C:\Users\dmitr\OneDrive\Документы\Для работы\Text Analytics\TextAnalytics\bin\Debug\netstandard2.0\TextAnalytics.dll
+C:\Users\dmitr\OneDrive\Документы\Для работы\Text Analytics\TextAnalytics\bin\Debug\netstandard2.0\TextAnalytics.pdb
+C:\Users\dmitr\OneDrive\Документы\Для работы\Text Analytics\TextAnalytics\obj\Debug\netstandard2.0\TextAnalytics.csprojResolveAssemblyReference.cache
+C:\Users\dmitr\OneDrive\Документы\Для работы\Text Analytics\TextAnalytics\obj\Debug\netstandard2.0\TextAnalytics.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Документы\Для работы\Text Analytics\TextAnalytics\obj\Debug\netstandard2.0\TextAnalytics.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Документы\Для работы\Text Analytics\TextAnalytics\obj\Debug\netstandard2.0\TextAnalytics.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Документы\Для работы\Text Analytics\TextAnalytics\obj\Debug\netstandard2.0\TextAnalytics.dll
+C:\Users\dmitr\OneDrive\Документы\Для работы\Text Analytics\TextAnalytics\obj\Debug\netstandard2.0\TextAnalytics.pdb
